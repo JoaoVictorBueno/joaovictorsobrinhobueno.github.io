@@ -8,9 +8,6 @@
 
 ## Projetos
 
-### 📦 Análise de Vendas - Dataset Olist
-Análise realista de e-commerce com visualizações e métricas importantes.
-
 ### 📈 Dashboard de Finanças Pessoais
 Dashboard interativo com Streamlit e visualizações intuitivas.
 
