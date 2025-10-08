@@ -2,7 +2,7 @@
 
 💡 Cientista de Dados em formação  
 📊 Portfólio de projetos com Python, Pandas, Matplotlib, Power BI  
-🚀 Foco em análise de dados e logística
+🚀 Foco em análise de dados, logística e finanças
 
 ---
 
